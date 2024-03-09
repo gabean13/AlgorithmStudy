@@ -1,4 +1,4 @@
-package solvedAcSprout.second;
+package solvedAcSprout.input;
 
 
 import java.io.BufferedReader;

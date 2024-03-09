@@ -1,4 +1,4 @@
-package solvedAcSprout.third;
+package solvedAcSprout.conditions;
 
 import java.util.Scanner;
 

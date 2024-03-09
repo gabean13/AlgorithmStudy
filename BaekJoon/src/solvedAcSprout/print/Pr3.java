@@ -1,4 +1,4 @@
-package solvedAcSprout.first;
+package solvedAcSprout.print;
 
 public class Pr3 {
     public static void main(String[] args) {

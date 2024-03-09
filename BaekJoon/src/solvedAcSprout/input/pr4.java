@@ -1,8 +1,8 @@
-package solvedAcSprout.second;
+package solvedAcSprout.input;
 
 import java.util.Scanner;
 
-public class pr1 {
+public class pr4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -10,6 +10,10 @@ public class pr1 {
         int B = sc.nextInt();
 
         System.out.println(A+B);
+        System.out.println(A-B);
+        System.out.println(A*B);
+        System.out.println(A/B);
+        System.out.println(A%B);
 
         sc.close();
     }
